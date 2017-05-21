@@ -10,3 +10,4 @@ if sys.argv:
     patterns.draw_text(sys.argv[1])
     turtle.exitonclick()
 
+

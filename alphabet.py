@@ -1,6 +1,13 @@
 import turtle
 import patterns
 from data import mag
+
+# find ways to make more reusable patterns for letters.
+# create classes for letters of similar shapes, especially
+# d b p q g AND i j t
+
+# create numbers.py and draw numbers
+# create characters.py and draw misc characters like + - $ etc.
 def draw_a():
 
 	# Initialise
